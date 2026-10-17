@@ -89,7 +89,7 @@ This project focuses on analyzing customer shopping behavior to identify purchas
 
 ## 📝 Conclusion
 
-The customer behavior analysis of 3,900 purchases reveals an average spend of $59.76 and highlights that male customers generate more than double the revenue of female customers ($157,890 compared to $75,191). Clothing leads category performance, young adults contribute the highest revenue among age groups, and non-subscribers make up 73% of the customer base. To drive growth, the business should focus on converting non-subscribers, optimizing high-discount pricing on items like hats and sneakers, and leveraging targeted marketing toward high-revenue segments.
+The customer behavior analysis of 3,900 purchases reveals an average spend of $59.76. Clothing leads category performance, young adults contribute the highest revenue among age groups, and non-subscribers make up 73% of the customer base. To drive growth, the business should focus on converting non-subscribers, optimizing high-discount pricing on items like hats and sneakers, and leveraging targeted marketing toward high-revenue segments.
 
 ## 👤 Author
 

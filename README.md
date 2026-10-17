@@ -20,8 +20,6 @@ This project focuses on analyzing customer shopping behavior to identify purchas
 - **Power BI** — Interactive dashboards and data visualization.
 - **Microsoft Excel** — Data inspection, analysis, and reporting.
 
-*Note: The tools listed above should reflect the tools actually used in the project.*
-
 ## 📂 Project Workflow
 
 ### 1. Data Understanding
@@ -52,32 +50,23 @@ This project focuses on analyzing customer shopping behavior to identify purchas
 - Summarize the key findings supported by the analysis.
 - Translate findings into practical business recommendations.
 
-## 📊 Key Business Questions
-
-The analysis can address questions such as:
-
-- Which products or categories generate the highest sales?
-- What purchasing patterns can be observed among customers?
-- Which customer segments contribute most to sales?
-- How do shopping preferences vary across available customer groups?
-- What opportunities exist to improve sales performance and customer engagement?
-
-*The final questions should be adjusted to match the dataset and analyses performed.*
-
 ## 💡 Key Insights
 
-**To be completed after reviewing the actual analysis results.**
+- Express shipping customers spent approximately 12% more per transaction.
+- Female Customers generate slightly higher revenue as compared to their male counterparts.
+- Product ratings and purchasing patterns offered valuable insights for targeted marketing strategies.
 
-- **Sales Performance:** [Insert the main finding about sales or product performance.]
-- **Customer Behavior:** [Insert a finding about customer purchasing patterns.]
-- **Product Preferences:** [Insert a finding about popular products or categories.]
-- **Business Recommendations:** [Describe an actionable recommendation supported by your results.]
+## 📊 Business Recommendations
 
+● Boost Subscriptions – Promote exclusive benefits for subscribers.
+● Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” segment.
+● Review Discount Policy – Balance sales boosts with margin control.
+● Product Positioning – Highlight top-rated and best-selling products in campaigns.
+● Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping users.
+  
 ## 📈 Dashboard & Visualizations
 
-`![Customer Shopping Dashboard](pictures/dashboard.png)`
-
-Replace the image path with the actual location and filename in your repository.
+![Customer Shopping Dashboard](pictures/dashboard.png)
 
 ## 📁 Repository Structure
 
@@ -114,30 +103,25 @@ Customer-Shopping-Behavior-Analysis/
 5. Open the Power BI dashboard or Excel workbook, if provided.
 6. Review the findings and recommendations after they have been documented.
 
-Any required software, dependencies, or setup instructions should be added here if the analysis needs to be reproduced.
-
 ## 📚 Skills Demonstrated
 
 - Data cleaning and preparation
-- Exploratory data analysis
+- Exploratory Data Analysis (EDA)
 - SQL querying and aggregation
 - Python-based data analysis
 - Data visualization and dashboard development
 - Business problem-solving
-- Data-driven decision-making
-- Analytical communication
+- Data-driven insights
 
 ## 📝 Conclusion
 
 This project demonstrates an analytical approach to understanding customer shopping behavior using data analysis and visualization techniques. It provides an opportunity to transform raw data into meaningful insights and communicate findings that can inform business decisions.
 
-The final conclusions and recommendations will be based on the actual results obtained from the project.
-
 ## 👤 Author
 
 **Hrishikesh Ravi Shekar**
 
-MSc Web and Data Science | University of Koblenz, Germany
+Aspiring Data Analyst | MSc Web and Data Science | Universität Koblenz, Germany
 
-- **GitHub:** [Your GitHub Profile URL]
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **GitHub:** https://github.com/hravish02/
+- **LinkedIn:** https://www.linkedin.com/in/hravish/

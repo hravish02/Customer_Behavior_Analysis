@@ -68,32 +68,6 @@ This project focuses on analyzing customer shopping behavior to identify purchas
 
 ![Customer Shopping Dashboard](https://github.com/hravish02/Customer_Behavior_Analysis/blob/c51a6dbf6d1db60f336bc468a0967625522f6ee9/dashboard.png)
 
-## 📁 Repository Structure
-
-```
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│   └── README.md
-│
-├── notebooks/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
-├── sql/
-│   └── customer_behavior_sql_queries.sql
-│
-├── powerbi/
-│   └── customer_behavior_dashboard.pbix
-│
-├── excel/
-│   └── customer_shopping_behavior.csv
-│
-├── pictures/
-│   └── dashboard.png
-│
-└── README.md
-```
-
 ## 🚀 How to Explore the Project
 
 1. Clone or download this repository.

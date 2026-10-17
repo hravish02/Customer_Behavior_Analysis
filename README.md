@@ -66,7 +66,7 @@ This project focuses on analyzing customer shopping behavior to identify purchas
   
 ## 📈 Dashboard & Visualizations
 
-![Customer Shopping Dashboard](pictures/dashboard.png)
+![Customer Shopping Dashboard](https://github.com/hravish02/Customer_Behavior_Analysis/blob/c51a6dbf6d1db60f336bc468a0967625522f6ee9/dashboard.png)
 
 ## 📁 Repository Structure
 

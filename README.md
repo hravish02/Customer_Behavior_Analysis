@@ -1,4 +1,4 @@
-# Customer_Behavior_Analysis
+# Customer_Shopping_Behavior_Analysis
 
 1. Overview
 
